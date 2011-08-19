@@ -1,0 +1,635 @@
+{
+    "projectName": "Project Name",
+    "licenseText": "Copyright(c) 2011 Company Name",
+    "builds": [
+        {
+            "name": "All Classes",
+            "target": "all-classes.js",
+            "options": {
+                "debug": true
+            },
+            "files": [
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Observable.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Association.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Operation.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "validations.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "HashMap.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "SortTypes.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Connection.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Filter.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Sorter.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/writer/",
+                    "name": "Writer.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "KeyMap.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Memento.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "ResultSet.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "CubicBezier.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/panel/",
+                    "name": "Proxy.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "Template.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "Queue.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "StatusProxy.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ZIndexManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ComponentQuery.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "KeyNav.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/target/",
+                    "name": "Target.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "Color.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/",
+                    "name": "Layout.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Floating.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/boxOverflow/",
+                    "name": "None.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Offset.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Animate.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "AbstractContainer.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "ClickRepeater.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ElementLoader.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "TextMetrics.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/state/",
+                    "name": "Provider.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/app/",
+                    "name": "Controller.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/app/",
+                    "name": "EventBus.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "AbstractManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ModelManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ComponentManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Types.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Field.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "Ajax.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "AbstractMixedCollection.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Sortable.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "MixedCollection.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "StoreManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Errors.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/writer/",
+                    "name": "Json.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/reader/",
+                    "name": "Reader.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/reader/",
+                    "name": "Json.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/proxy/",
+                    "name": "Proxy.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/proxy/",
+                    "name": "Server.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/proxy/",
+                    "name": "Ajax.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Model.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "XTemplate.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "Easing.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "FocusManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/target/",
+                    "name": "Element.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/target/",
+                    "name": "CompositeElement.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/target/",
+                    "name": "Sprite.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/target/",
+                    "name": "CompositeSprite.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/target/",
+                    "name": "Component.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "Manager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "Animator.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "Draw.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "PropertyHandler.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/fx/",
+                    "name": "Anim.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "Component.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "AbstractDock.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "Dock.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "Tip.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Region.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "DragDropManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "Container.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "Auto.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/boxOverflow/",
+                    "name": "Scroller.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "DragDrop.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "DD.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "DDProxy.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "DragSource.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/panel/",
+                    "name": "DD.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "PluginManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "LoadMask.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ComponentLoader.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "Auto.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/state/",
+                    "name": "Manager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/state/",
+                    "name": "Stateful.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "AbstractComponent.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "Component.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/container/",
+                    "name": "AbstractContainer.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/container/",
+                    "name": "Container.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/panel/",
+                    "name": "Header.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/toolbar/",
+                    "name": "Fill.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/toolbar/",
+                    "name": "Item.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/toolbar/",
+                    "name": "Separator.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/menu/",
+                    "name": "Manager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "Button.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/button/",
+                    "name": "Button.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/boxOverflow/",
+                    "name": "Menu.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "Box.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "HBox.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "VBox.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/toolbar/",
+                    "name": "Toolbar.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/panel/",
+                    "name": "AbstractPanel.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/panel/",
+                    "name": "Panel.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/tip/",
+                    "name": "Tip.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/tip/",
+                    "name": "ToolTip.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/tip/",
+                    "name": "QuickTip.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/tip/",
+                    "name": "QuickTipManager.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/app/",
+                    "name": "Application.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Point.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "Layer.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Batch.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Request.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/resizer/",
+                    "name": "Resizer.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/panel/",
+                    "name": "Tool.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "CSS.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/dd/",
+                    "name": "DragTracker.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/component/",
+                    "name": "Draw.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/menu/",
+                    "name": "Item.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/menu/",
+                    "name": "KeyNav.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/menu/",
+                    "name": "Separator.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "AbstractStore.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "Grouper.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "CompositeSprite.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "AbstractFit.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/util/",
+                    "name": "ComponentDragger.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/window/",
+                    "name": "Window.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "Store.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/",
+                    "name": "ArrayStore.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "Surface.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "Component.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/layout/container/",
+                    "name": "Fit.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/menu/",
+                    "name": "CheckItem.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/menu/",
+                    "name": "Menu.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/resizer/",
+                    "name": "ResizeTracker.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/reader/",
+                    "name": "Array.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "ShadowPool.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/proxy/",
+                    "name": "Client.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "Matrix.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "SpriteDD.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/",
+                    "name": "Shadow.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/data/proxy/",
+                    "name": "Memory.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/",
+                    "name": "Sprite.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/engine/",
+                    "name": "Svg.js"
+                },
+                {
+                    "path": "../3rdp/ext/4.0.2/src/draw/engine/",
+                    "name": "Vml.js"
+                },
+                {
+                    "path": "app/model/",
+                    "name": "User.js"
+                },
+                {
+                    "path": "app/view/canvas/",
+                    "name": "Panel.js"
+                },
+                {
+                    "path": "app/view/canvas/",
+                    "name": "Shape.js"
+                },
+                {
+                    "path": "app/view/canvas/",
+                    "name": "Rectangle.js"
+                },
+                {
+                    "path": "app/store/",
+                    "name": "Users.js"
+                },
+                {
+                    "path": "app/controller/",
+                    "name": "Canvas.js"
+                }
+            ]
+        },
+        {
+            "name": "Application - Production",
+            "target": "app-all.js",
+            "compress": true,
+            "files": [
+                {
+                    "path": "",
+                    "name": "all-classes.js"
+                },
+                {
+                    "path": "",
+                    "name": "app.js"
+                }
+            ]
+        }
+    ],
+    "resources": []
+}

@@ -1,0 +1,19 @@
+/* style.css */
+.btn-square-m {
+	background-image: url('../images/square_shape_24.png') !important;
+}
+.btn-circle-m {
+	background-image: url('../images/circle_shape_24.png') !important;
+}
+.btn-drag-m {
+	background-image: url('../images/drag_24.png') !important;
+}
+.btn-text-m {
+	background-image: url('../images/text_24.png') !important;
+}
+.btn-hand-m {
+	background-image: url('../images/hand_24.png') !important;
+}
+.btn-line-m {
+	background-image: url('../images/line_24.png') !important;
+}
